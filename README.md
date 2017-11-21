@@ -7,5 +7,5 @@ https://reference.digilentinc.com/reference/pmod/pmodrs232/reference-manual
 The code will be written in python using pySerial and python-flask.
 
 
-
+ raspberrypi-druck/pi3_gpio.png 
 
